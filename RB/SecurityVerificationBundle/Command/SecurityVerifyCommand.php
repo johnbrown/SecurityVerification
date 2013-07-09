@@ -32,6 +32,8 @@ class SecurityVerifyCommand extends ContainerAwareCommand
      */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-
+        $service = $this->getContainer()->get('rb.security_verify');
+        $info = $service->getSecurityInfo();
+        $output->write($info);
     }
 }
