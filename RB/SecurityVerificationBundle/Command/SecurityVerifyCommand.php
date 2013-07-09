@@ -1,6 +1,6 @@
 <?php
 
-namespace RB\SecruityVerificationBundle\Command;
+namespace RB\SecurityVerificationBundle\Command;
 
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
