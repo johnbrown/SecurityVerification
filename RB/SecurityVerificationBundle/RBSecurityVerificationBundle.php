@@ -1,5 +1,5 @@
 <?php
-namespace RB\SecruityVerificationBundle;
+namespace RB\SecurityVerificationBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
@@ -8,6 +8,6 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  * @package RB\SecruityVerificationBundle
  * @author  John Brown <brown.john@gmail.com>
  */
-class RBSecirutyVerificationBundle extends Bundle
+class RBSecurityVerificationBundle extends Bundle
 {
 }
