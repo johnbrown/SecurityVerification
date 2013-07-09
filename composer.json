@@ -1,0 +1,13 @@
+{
+    "name": "rb/security-verification",
+    "authors": [
+        {
+            "name": "John Brown",
+            "email": "brown.john@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
